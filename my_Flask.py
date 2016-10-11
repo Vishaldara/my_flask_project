@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 stream1 = 'My experience with streem 1 was good i learn alot and i made a cool website'
 
-stream2 = 'my experience with streem 2 is ok. i am struggling at the moment but i will get there.'
+stream2 = 'My experience with streem 2 is ok. I am struggling at the moment but i will get there.'
 
 
 @app.route('/')
